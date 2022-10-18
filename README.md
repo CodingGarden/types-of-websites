@@ -95,12 +95,77 @@
       * Rails
       * Sinatra
   * Dynamic Hosts
-    
+    * Most of these hosts will let you run your express app directly... some will require you to use something like [serverless-http](https://www.npmjs.com/package/serverless-http)
+    * Cloud Development Environments / Playground IDEs
+      * Glitch
+      * codesandbox
+      * gitpod
+      * github codespaces
+      * stackblitz
+      * replit
+    * PaaS (Platform as a Service)
+      * Vercel (Serverless Function or Edge Function)
+      * Netlify Functions
+      * fly.io
+      * render.com
+      * Railway.app
+      * Heroku
+      * Google AppEngine
+      * Google Cloud Run
+    * IaaS (Infrastructure as a Service)
+      * Could host your own PaaS
+        * dokku
+      * Provides VPS (Virtual Private Server)
+        * AWS EC2
+        * AWS Lightsail
+        * Digital Ocean Droplet
+        * Linode
+        * GCP - Compute Engine
+        * Azure VMs
+        * IBM Cloud Server
+    * Dedicated Servers
+      * You own the whole box...
 * Single page "application" (SPA)
-  * Vanilla JS
-  * React
-  * Vue
-  * Svelte
-  * Angular
-  * Solid
-* Multi page server side rendered
+  * CSR (Client Side Rendering)
+  * Client Side Routing
+  * Deployed the same way as "Multi page static website"
+  * All generated code is client side code
+  * Frameworks / Libraries
+    * Vue
+      * Vue Router (Core Team)
+    * Angular
+      * Angular Router (Core Team/Built In)
+    * Vanilla JS
+      * Find one..
+    * React
+      * React Router
+      * Find another one
+    * Svelte
+      * Find a router...
+    * Solid
+      * Solid Router (Core Team)
+* Static Site Generation (SSG)
+  * "JamStack"
+  * Deployed the same way as "Multi page static website"
+  * Frameworks
+    * Astro
+    * Gatsby
+    * Gridsome
+    * Vuepress
+    * Hugo
+    * And more... https://jamstack.org/generators/
+* Hybrid Server Side Rendering
+  * Combine (SSR and SPA and SSG)
+  * Web Frameworks
+    * Nextjs
+      * React
+    * Remix
+      * React
+    * Nuxt
+      * Vue
+    * Sveltekit
+      * Svelte
+    * Angular Universal
+      * Angular
+    * Solid Start
+      * Solid
