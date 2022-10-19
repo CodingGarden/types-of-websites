@@ -6,7 +6,7 @@ All generated code is client side code, there is no backend.
 
 ## Frameworks / Libraries
 
-- [Vue](https://vuejs.org/) **[Example](/examples/single-page-application-with-vue3/)**
+- [Vue](https://vuejs.org/) **[Example](examples/vue3/)**
   - [Vue Router](https://router.vuejs.org/) (Core Team)
 - [Angular](https://angular.io/)
   - [Angular Router](https://angular.io/guide/router) (Core Team/Built In)

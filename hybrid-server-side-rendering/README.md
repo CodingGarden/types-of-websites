@@ -4,7 +4,7 @@ It combines [SSR](/server-side-rendering/README.md), [SPA](/single-page-applicat
 
 ## Web Frameworks
 
-- [Nextjs](https://nextjs.org/) (React) **[Example](/examples/hybrid-ssr-ssg-spa-with-nextjs/)**
+- [Nextjs](https://nextjs.org/) (React) **[Example](examples/nextjs/)**
 - [Remix](https://remix.run/) (React)
 - [Nuxt](https://nuxtjs.org/) (Vue)
 - [Sveltekit](https://kit.svelte.dev/) (Svelte)

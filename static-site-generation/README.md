@@ -6,7 +6,7 @@ It is deployed the same way as a "[Multi page static website](/multi-page-static
 
 ## Frameworks
 
-- [Astro](https://astro.build/) **[Example](/examples/static-site-generated-with-astro/)**
+- [Astro](https://astro.build/) **[Example](examples/astro/)**
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Gridsome](https://gridsome.org/)
 - [Vuepress](https://vuepress.vuejs.org/)

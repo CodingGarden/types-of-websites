@@ -35,4 +35,4 @@
 - [Google Cloud Storage](https://cloud.google.com/storage/docs/hosting-static-website)
 - [Render (static sites)](https://render.com/docs/static-sites)
 
-See a basic example [here](/examples/multi-page-static/).
+See a basic example [here](example/).

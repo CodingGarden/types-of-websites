@@ -12,14 +12,14 @@
 
 ### [Node.js](https://nodejs.org/) (Runtime) (JavaScript)
 
-- [Express](https://expressjs.com/) **[Example](/examples/server-rendered-website/)**
+- [Express](https://expressjs.com/) **[Example](examples/express-handlebars/)**
 - [Hapi](https://hapi.dev/)
 - [Koa](https://koajs.com/)
 - [Fastify](https://www.fastify.io/)
 
 ### Template Languages
 
-- [Handlebars](https://handlebarsjs.com/) **[Example](/examples/server-rendered-website/)**
+- [Handlebars](https://handlebarsjs.com/) **[Example](examples/express-handlebars/)**
   - [Mustache](https://mustache.github.io/)
 - [EJS](https://ejs.co/)
 - [Pug](https://pugjs.org/) (Jade)
