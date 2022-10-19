@@ -163,17 +163,13 @@
     - And [more](https://jamstack.org/generators/)...
 
 - Hybrid Server Side Rendering
-  - Combine (SSR and SPA and SSG)
+
+  Combine (SSR and SPA and SSG)
+
   - Web Frameworks
-    - Nextjs
-      - React
-    - Remix
-      - React
-    - Nuxt
-      - Vue
-    - Sveltekit
-      - Svelte
-    - Angular Universal
-      - Angular
-    - Solid Start
-      - Solid
+    - [Nextjs](https://nextjs.org/) (React)
+    - [Remix](https://remix.run/) (React)
+    - [Nuxt](https://nuxtjs.org/) (Vue)
+    - [Sveltekit](https://kit.svelte.dev/) (Svelte)
+    - [Angular Universal](https://angular.io/guide/universal) (Angular)
+    - [Solid Start](https://start.solidjs.com/) (Solid)
