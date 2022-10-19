@@ -96,34 +96,36 @@
       - [Rails](https://rubyonrails.org/)
       - [Sinatra](https://sinatrarb.com/)
   - Dynamic Hosts
-    - Most of these hosts will let you run your express app directly... some will require you to use something like [serverless-http](https://www.npmjs.com/package/serverless-http)
+
+    Most of these hosts will let you run your express app directly... some will require you to use something like [serverless-http](https://www.npmjs.com/package/serverless-http)
+
     - Cloud Development Environments / Playground IDEs
-      - Glitch
-      - codesandbox
-      - gitpod
-      - github codespaces
-      - stackblitz
-      - replit
-    - PaaS (Platform as a Service)
-      - Vercel (Serverless Function or Edge Function)
-      - Netlify Functions
-      - fly.io
-      - render.com
-      - Railway.app
-      - Heroku
-      - Google AppEngine
-      - Google Cloud Run
-    - IaaS (Infrastructure as a Service)
+      - [Glitch](https://glitch.com/)
+      - [codesandbox](https://codesandbox.io/)
+      - [gitpod](https://www.gitpod.io/)
+      - [github codespaces](https://github.com/features/codespaces)
+      - [stackblitz](https://stackblitz.com/)
+      - [replit](https://replit.com/)
+    - PaaS ([Platform as a Service](https://en.wikipedia.org/wiki/Platform_as_a_service))
+      - [Vercel](https://vercel.com/) (Serverless Function or Edge Function)
+      - [Netlify Functions](https://www.netlify.com/products/functions/)
+      - [fly.io](https://fly.io/)
+      - [Render](https://render.com/)
+      - [Railway](https://railway.app/)
+      - [Heroku](https://www.heroku.com/)
+      - [Google App Engine](https://cloud.google.com/appengine)
+      - [Google Cloud Run](https://cloud.google.com/run)
+    - IaaS ([Infrastructure as a Service](https://en.wikipedia.org/wiki/Infrastructure_as_a_service))
       - Could host your own PaaS
-        - dokku
+        - [dokku](https://dokku.com/)
       - Provides VPS (Virtual Private Server)
-        - AWS EC2
-        - AWS Lightsail
-        - Digital Ocean Droplet
-        - Linode
-        - GCP - Compute Engine
-        - Azure VMs
-        - IBM Cloud Server
+        - [AWS EC2](https://aws.amazon.com/ec2/)
+        - [AWS Lightsail](https://aws.amazon.com/lightsail/)
+        - [DigitalOcean Droplet](https://www.digitalocean.com/products/droplets)
+        - [Linode](https://www.linode.com/)
+        - [GCP - Compute Engine](https://cloud.google.com/compute)
+        - [Azure VMs](https://azure.microsoft.com/products/virtual-machines/)
+        - [IBM Cloud Server](https://www.ibm.com/cloud/virtual-servers)
     - Dedicated Servers
       - You own the whole box...
 - Single page "application" (SPA)
