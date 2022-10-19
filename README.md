@@ -38,62 +38,63 @@
     1. The server can respond with static files as well...
     - That is not the main use of this kind of server
   - Web Frameworks
-    - Node.js (Runtime) (JavaScript)
-      - Express
-      - Hapi
-      - Koa
-      - Fastify
+    - [Node.js](https://nodejs.org/) (Runtime) (JavaScript)
+      - [Express](https://expressjs.com/)
+      - [Hapi](https://hapi.dev/)
+      - [Koa](https://koajs.com/)
+      - [Fastify](https://www.fastify.io/)
     - Template Languages
-      - Handlebars
-        - Mustache
-      - EJS
-      - Pug (Jade)
-      - Jinja
-      - Swig
-    - JVM (Java Virtual Machine - Runtime)
+      - [Handlebars](https://handlebarsjs.com/)
+        - [Mustache](https://mustache.github.io/)
+      - [EJS](https://ejs.co/)
+      - [Pug](https://pugjs.org/) (Jade)
+      - [Jinja](https://jinja.palletsprojects.com/)
+      - [Swig](https://node-swig.github.io/swig-templates/)
+    - [JVM](https://en.wikipedia.org/wiki/Java_virtual_machine) (Java Virtual Machine - Runtime)
       - Languages
-        - Kotlin
-        - Clojure
-        - Java
-        - Scala
-        - Groovy
-      - Spring
-      - Jakarta EE
-    - Python (Language and Runtime)
-      - Django
-      - Bottlepy
-      - Flask
-      - Fastapi
-    - .NET (Runtime) Typically C# (Language)
-      - ASP.NET MVC
-      - Blazor
-    - PHP (Language and Runtime)
-      - Laravel
-      - Slim
-      - Symfony
-      - Codeigniter
-      - Zen
-      - CakePHP
-      - Yii
-      - Wordpress
-    - Elixir (Language) Erlang VM (Runtime)
-      - Phoenix
-    - Go (Language and Runtime)
-      - gin
-      - fiber
-      - chi
-      - net/http
-      - mux gorilla
-      - echo kit
-      - hugo
-    - Rust (Language and Runtime)
-      - Rocket
-      - Zola
-    - Lua
-      - Lapis
-    - Ruby (Language and Runtime)
-      - Rails
-      - Sinatra
+        - [Kotlin](https://kotlinlang.org/)
+        - [Clojure](https://clojure.org/)
+        - [Java](https://dev.java/)
+        - [Scala](https://www.scala-lang.org/)
+        - [Groovy](https://groovy-lang.org/)
+      - Frameworks
+        - [Spring](https://spring.io/)
+        - [Jakarta EE](https://jakarta.ee/)
+    - [Python](https://www.python.org/) (Language and Runtime)
+      - [Django](https://www.djangoproject.com/)
+      - [Bottlepy](https://bottlepy.org/)
+      - [Flask](https://flask.palletsprojects.com/)
+      - [Fastapi](https://fastapi.tiangolo.com/)
+    - [.NET](https://dotnet.microsoft.com/) (Runtime) Typically [C#](https://learn.microsoft.com/dotnet/csharp/) (Language)
+      - [ASP.NET](https://asp.net/) MVC
+      - [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+    - [PHP](https://www.php.net/) (Language and Runtime)
+      - [Laravel](https://laravel.com/)
+      - [Slim](https://www.slimframework.com/)
+      - [Symfony](https://symfony.com/)
+      - [Codeigniter](https://www.codeigniter.com/)
+      - [Zend](https://www.zend.com/)
+      - [CakePHP](https://cakephp.org/)
+      - [Yii](https://www.yiiframework.com/)
+      - [Wordpress](https://wordpress.com/)
+    - [Elixir](https://elixir-lang.org/) (Language) [Erlang](https://www.erlang.org/) VM (Runtime)
+      - [Phoenix](https://www.phoenixframework.org/)
+    - [Go](https://go.dev/) (Language and Runtime)
+      - [gin](https://gin-gonic.com/)
+      - [fiber](https://gofiber.io/)
+      - [chi](https://go-chi.io/)
+      - [net/http](https://pkg.go.dev/net/http)
+      - [mux gorilla](https://pkg.go.dev/github.com/gorilla/mux)
+      - [echo](https://echo.labstack.com/) kit
+      - [hugo](https://gohugo.io/)
+    - [Rust](https://www.rust-lang.org/) (Language and Runtime)
+      - [Rocket](https://rocket.rs/)
+      - [Zola](https://www.getzola.org/)
+    - [Lua](https://www.lua.org/)
+      - [Lapis](https://leafo.net/lapis/)
+    - [Ruby](https://www.ruby-lang.org/) (Language and Runtime)
+      - [Rails](https://rubyonrails.org/)
+      - [Sinatra](https://sinatrarb.com/)
   - Dynamic Hosts
     - Most of these hosts will let you run your express app directly... some will require you to use something like [serverless-http](https://www.npmjs.com/package/serverless-http)
     - Cloud Development Environments / Playground IDEs
