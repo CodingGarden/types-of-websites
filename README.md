@@ -31,6 +31,7 @@
     - [Google Cloud Storage](https://cloud.google.com/storage/docs/hosting-static-website)
     - [Render (static sites)](https://render.com/docs/static-sites)
 - Server Side Rendered Website (Dynamic Server)
+
   - How This Works
     1. A request is made to the server
     1. The server runs code to handle the request
@@ -128,25 +129,26 @@
         - [IBM Cloud Server](https://www.ibm.com/cloud/virtual-servers)
     - Dedicated Servers
       - You own the whole box...
+
 - Single page "application" (SPA)
   - CSR (Client Side Rendering)
   - Client Side Routing
   - Deployed the same way as "Multi page static website"
   - All generated code is client side code
   - Frameworks / Libraries
-    - Vue
-      - Vue Router (Core Team)
-    - Angular
-      - Angular Router (Core Team/Built In)
+    - [Vue](https://vuejs.org/)
+      - [Vue Router](https://router.vuejs.org/) (Core Team)
+    - [Angular](https://angular.io/)
+      - [Angular Router](https://angular.io/guide/router) (Core Team/Built In)
     - Vanilla JS
       - Find one..
-    - React
-      - React Router
+    - [React](https://reactjs.org/)
+      - [React Router](https://reactrouter.com/)
       - Find another one
-    - Svelte
+    - [Svelte](https://svelte.dev/)
       - Find a router...
-    - Solid
-      - Solid Router (Core Team)
+    - [SolidJS](https://www.solidjs.com/)
+      - [Solid Router](https://github.com/solidjs/solid-router) (Core Team)
 - Static Site Generation (SSG)
   - "JamStack"
   - Deployed the same way as "Multi page static website"
