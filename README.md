@@ -150,15 +150,18 @@
     - [SolidJS](https://www.solidjs.com/)
       - [Solid Router](https://github.com/solidjs/solid-router) (Core Team)
 - Static Site Generation (SSG)
-  - "JamStack"
-  - Deployed the same way as "Multi page static website"
+
+  Deployed the same way as "Multi page static website"
+
+  - "[JamStack](https://jamstack.org/)"
   - Frameworks
-    - Astro
-    - Gatsby
-    - Gridsome
-    - Vuepress
-    - Hugo
-    - And more... https://jamstack.org/generators/
+    - [Astro](https://astro.build/)
+    - [Gatsby](https://www.gatsbyjs.com/)
+    - [Gridsome](https://gridsome.org/)
+    - [Vuepress](https://vuepress.vuejs.org/)
+    - [Hugo](https://gohugo.io/)
+    - And [more](https://jamstack.org/generators/)...
+
 - Hybrid Server Side Rendering
   - Combine (SSR and SPA and SSG)
   - Web Frameworks
